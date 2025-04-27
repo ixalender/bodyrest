@@ -1,4 +1,4 @@
-module bodyrest
+module github.com/ixalender/bodyrest
 
 go 1.23.2
 
